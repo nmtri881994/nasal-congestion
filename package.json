@@ -30,7 +30,7 @@
     "mongoose": "^5.5.0",
     "next": "^8.0.4",
     "next-i18next": "^0.37.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "nodemon": "^1.18.11",
     "prismjs": "^1.16.0",
     "react": "^16.8.6",
